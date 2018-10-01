@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="108dp"
+        android:height="108dp"
+        android:viewportWidth="261.81818"
+        android:viewportHeight="261.81818">
+    <group android:translateX="34.909092"
+            android:translateY="34.909092">
+        <path
+            android:fillColor="#f7941d"
+            android:name="Rectangle 4"
+            android:pathData="m0 0h192v192h-192v-192z" />
+        <path
+            android:fillColor="#ddd"
+            android:name="Rounded Rectangle 1"
+            android:pathData="m47 60h39c5.52 0 10 4.48 10 10v14c0 5.52 -4.48 10 -10 10h-39c-5.52 0 -10 -4.48 -10 -10v-14c0 -5.52 4.48 -10 10 -10z" />
+        <path
+            android:fillColor="#f7941d"
+            android:name="Rectangle 1"
+            android:pathData="m43 66h61v30h-61v-30z" />
+        <path
+            android:fillColor="#fff"
+            android:name="Rounded Rectangle 2"
+            android:pathData="m79 85h39c5.52 0 10 4.48 10 10v14c0 5.52 -4.48 10 -10 10h-39c-5.52 0 -10 -4.48 -10 -10v-14c0 -5.52 4.48 -10 10 -10z" />
+        <path
+            android:fillColor="#f7941d"
+            android:name="Rectangle 2"
+            android:pathData="m75 91h61v30h-61v-30z" />
+        <path
+            android:fillColor="#ddd"
+            android:name="Rounded Rectangle 3"
+            android:pathData="m111 110h39c5.52 0 10 4.48 10 10v14c0 5.52 -4.48 10 -10 10h-39c-5.52 0 -10 -4.48 -10 -10v-14c0 -5.52 4.48 -10 10 -10z" />
+        <path
+            android:fillColor="#f7941d"
+            android:name="Rectangle 3"
+            android:pathData="m107 116h53v28h-53v-28z" />
+    </group>
+</vector>

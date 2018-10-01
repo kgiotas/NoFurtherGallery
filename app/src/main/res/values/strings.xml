@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">NoFurtherGallery</string>
+
+   <!-- About page -->
+    <string name="version">Version</string>
+    <string name="description">NoFurtherGallery helps you stop prying eyes from viewing items in your gallery. Just share images you want to show, at NoFurtherGallery!</string>
+    <string name="how_to_use">How to use</string>
+    <string name="app_info">Application information</string>
+    <string name="changelog">Changelog</string>
+    <string name="open_source_licenses">Open Source Licenses</string>
+    <string name="source_code">Source code</string>
+
+  <!-- Links -->
+    <string name="gitlab_link" translatable="false">https://gitlab.com/kgiotas/nofurthergallery</string>
+</resources>
